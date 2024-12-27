@@ -1,0 +1,201 @@
+Account ID,Subject,Body,Spam Label,Email Length,Number of Links
+user1@mail.com,Subject 1 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 1",0,82,0
+user2@mail.com,Subject 2 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 2",1,82,0
+user3@mail.com,Subject 3 - General,Get amazing discounts on your next purchase! Visit http://sale.com/3 to know more.,0,82,1
+user4@mail.com,Subject 4 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 4",0,82,0
+user5@mail.com,Subject 5 - Important,Congratulations! You've won a prize! Click here: http://example.com/5 Claim now: http://claim.com/5,0,99,2
+user6@mail.com,Subject 6 - General,Get amazing discounts on your next purchase! Visit http://sale.com/6 to know more.,0,82,1
+user7@mail.com,Subject 7 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 7",0,82,0
+user8@mail.com,Subject 8 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 8",1,82,0
+user9@mail.com,Subject 9 - General,Get amazing discounts on your next purchase! Visit http://sale.com/9 to know more.,0,82,1
+user10@mail.com,Subject 10 - Important,Congratulations! You've won a prize! Click here: http://example.com/10 Claim now: http://claim.com/10,0,101,2
+user11@mail.com,Subject 11 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 11",0,83,0
+user12@mail.com,Subject 12 - General,Get amazing discounts on your next purchase! Visit http://sale.com/12 to know more.,1,83,1
+user13@mail.com,Subject 13 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 13",1,83,0
+user14@mail.com,Subject 14 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 14",0,83,0
+user15@mail.com,Subject 15 - Important,Congratulations! You've won a prize! Click here: http://example.com/15 Claim now: http://claim.com/15,0,101,2
+user16@mail.com,Subject 16 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 16",0,83,0
+user17@mail.com,Subject 17 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 17",0,83,0
+user18@mail.com,Subject 18 - General,Get amazing discounts on your next purchase! Visit http://sale.com/18 to know more.,0,83,1
+user19@mail.com,Subject 19 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 19",0,83,0
+user20@mail.com,Subject 20 - Important,Congratulations! You've won a prize! Click here: http://example.com/20 Claim now: http://claim.com/20,0,101,2
+user21@mail.com,Subject 21 - General,Get amazing discounts on your next purchase! Visit http://sale.com/21 to know more.,0,83,1
+user22@mail.com,Subject 22 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 22",0,83,0
+user23@mail.com,Subject 23 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 23",0,83,0
+user24@mail.com,Subject 24 - General,Get amazing discounts on your next purchase! Visit http://sale.com/24 to know more.,0,83,1
+user25@mail.com,Subject 25 - Important,Congratulations! You've won a prize! Click here: http://example.com/25 Claim now: http://claim.com/25,0,101,2
+user26@mail.com,Subject 26 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 26",1,83,0
+user27@mail.com,Subject 27 - General,Get amazing discounts on your next purchase! Visit http://sale.com/27 to know more.,0,83,1
+user28@mail.com,Subject 28 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 28",0,83,0
+user29@mail.com,Subject 29 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 29",0,83,0
+user30@mail.com,Subject 30 - Important,Congratulations! You've won a prize! Click here: http://example.com/30 Claim now: http://claim.com/30,0,101,2
+user31@mail.com,Subject 31 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 31",0,83,0
+user32@mail.com,Subject 32 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 32",0,83,0
+user33@mail.com,Subject 33 - General,Get amazing discounts on your next purchase! Visit http://sale.com/33 to know more.,0,83,1
+user34@mail.com,Subject 34 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 34",1,83,0
+user35@mail.com,Subject 35 - Important,Congratulations! You've won a prize! Click here: http://example.com/35 Claim now: http://claim.com/35,1,101,2
+user36@mail.com,Subject 36 - General,Get amazing discounts on your next purchase! Visit http://sale.com/36 to know more.,1,83,1
+user37@mail.com,Subject 37 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 37",0,83,0
+user38@mail.com,Subject 38 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 38",0,83,0
+user39@mail.com,Subject 39 - General,Get amazing discounts on your next purchase! Visit http://sale.com/39 to know more.,0,83,1
+user40@mail.com,Subject 40 - Important,Congratulations! You've won a prize! Click here: http://example.com/40 Claim now: http://claim.com/40,0,101,2
+user41@mail.com,Subject 41 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 41",0,83,0
+user42@mail.com,Subject 42 - General,Get amazing discounts on your next purchase! Visit http://sale.com/42 to know more.,0,83,1
+user43@mail.com,Subject 43 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 43",0,83,0
+user44@mail.com,Subject 44 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 44",1,83,0
+user45@mail.com,Subject 45 - Important,Congratulations! You've won a prize! Click here: http://example.com/45 Claim now: http://claim.com/45,0,101,2
+user46@mail.com,Subject 46 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 46",0,83,0
+user47@mail.com,Subject 47 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 47",0,83,0
+user48@mail.com,Subject 48 - General,Get amazing discounts on your next purchase! Visit http://sale.com/48 to know more.,0,83,1
+user49@mail.com,Subject 49 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 49",0,83,0
+user50@mail.com,Subject 50 - Important,Congratulations! You've won a prize! Click here: http://example.com/50 Claim now: http://claim.com/50,0,101,2
+user51@mail.com,Subject 51 - General,Get amazing discounts on your next purchase! Visit http://sale.com/51 to know more.,1,83,1
+user52@mail.com,Subject 52 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 52",1,83,0
+user53@mail.com,Subject 53 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 53",1,83,0
+user54@mail.com,Subject 54 - General,Get amazing discounts on your next purchase! Visit http://sale.com/54 to know more.,1,83,1
+user55@mail.com,Subject 55 - Important,Congratulations! You've won a prize! Click here: http://example.com/55 Claim now: http://claim.com/55,0,101,2
+user56@mail.com,Subject 56 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 56",1,83,0
+user57@mail.com,Subject 57 - General,Get amazing discounts on your next purchase! Visit http://sale.com/57 to know more.,0,83,1
+user58@mail.com,Subject 58 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 58",0,83,0
+user59@mail.com,Subject 59 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 59",0,83,0
+user60@mail.com,Subject 60 - Important,Congratulations! You've won a prize! Click here: http://example.com/60 Claim now: http://claim.com/60,0,101,2
+user61@mail.com,Subject 61 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 61",0,83,0
+user62@mail.com,Subject 62 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 62",0,83,0
+user63@mail.com,Subject 63 - General,Get amazing discounts on your next purchase! Visit http://sale.com/63 to know more.,1,83,1
+user64@mail.com,Subject 64 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 64",0,83,0
+user65@mail.com,Subject 65 - Important,Congratulations! You've won a prize! Click here: http://example.com/65 Claim now: http://claim.com/65,0,101,2
+user66@mail.com,Subject 66 - General,Get amazing discounts on your next purchase! Visit http://sale.com/66 to know more.,0,83,1
+user67@mail.com,Subject 67 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 67",0,83,0
+user68@mail.com,Subject 68 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 68",1,83,0
+user69@mail.com,Subject 69 - General,Get amazing discounts on your next purchase! Visit http://sale.com/69 to know more.,0,83,1
+user70@mail.com,Subject 70 - Important,Congratulations! You've won a prize! Click here: http://example.com/70 Claim now: http://claim.com/70,1,101,2
+user71@mail.com,Subject 71 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 71",1,83,0
+user72@mail.com,Subject 72 - General,Get amazing discounts on your next purchase! Visit http://sale.com/72 to know more.,0,83,1
+user73@mail.com,Subject 73 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 73",0,83,0
+user74@mail.com,Subject 74 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 74",1,83,0
+user75@mail.com,Subject 75 - Important,Congratulations! You've won a prize! Click here: http://example.com/75 Claim now: http://claim.com/75,0,101,2
+user76@mail.com,Subject 76 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 76",0,83,0
+user77@mail.com,Subject 77 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 77",1,83,0
+user78@mail.com,Subject 78 - General,Get amazing discounts on your next purchase! Visit http://sale.com/78 to know more.,0,83,1
+user79@mail.com,Subject 79 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 79",0,83,0
+user80@mail.com,Subject 80 - Important,Congratulations! You've won a prize! Click here: http://example.com/80 Claim now: http://claim.com/80,0,101,2
+user81@mail.com,Subject 81 - General,Get amazing discounts on your next purchase! Visit http://sale.com/81 to know more.,1,83,1
+user82@mail.com,Subject 82 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 82",0,83,0
+user83@mail.com,Subject 83 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 83",0,83,0
+user84@mail.com,Subject 84 - General,Get amazing discounts on your next purchase! Visit http://sale.com/84 to know more.,0,83,1
+user85@mail.com,Subject 85 - Important,Congratulations! You've won a prize! Click here: http://example.com/85 Claim now: http://claim.com/85,0,101,2
+user86@mail.com,Subject 86 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 86",0,83,0
+user87@mail.com,Subject 87 - General,Get amazing discounts on your next purchase! Visit http://sale.com/87 to know more.,0,83,1
+user88@mail.com,Subject 88 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 88",0,83,0
+user89@mail.com,Subject 89 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 89",1,83,0
+user90@mail.com,Subject 90 - Important,Congratulations! You've won a prize! Click here: http://example.com/90 Claim now: http://claim.com/90,0,101,2
+user91@mail.com,Subject 91 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 91",0,83,0
+user92@mail.com,Subject 92 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 92",0,83,0
+user93@mail.com,Subject 93 - General,Get amazing discounts on your next purchase! Visit http://sale.com/93 to know more.,1,83,1
+user94@mail.com,Subject 94 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 94",0,83,0
+user95@mail.com,Subject 95 - Important,Congratulations! You've won a prize! Click here: http://example.com/95 Claim now: http://claim.com/95,1,101,2
+user96@mail.com,Subject 96 - General,Get amazing discounts on your next purchase! Visit http://sale.com/96 to know more.,0,83,1
+user97@mail.com,Subject 97 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 97",0,83,0
+user98@mail.com,Subject 98 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 98",0,83,0
+user99@mail.com,Subject 99 - General,Get amazing discounts on your next purchase! Visit http://sale.com/99 to know more.,0,83,1
+user100@mail.com,Subject 100 - Important,Congratulations! You've won a prize! Click here: http://example.com/100 Claim now: http://claim.com/100,0,103,2
+user101@mail.com,Subject 101 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 101",0,84,0
+user102@mail.com,Subject 102 - General,Get amazing discounts on your next purchase! Visit http://sale.com/102 to know more.,0,84,1
+user103@mail.com,Subject 103 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 103",0,84,0
+user104@mail.com,Subject 104 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 104",0,84,0
+user105@mail.com,Subject 105 - Important,Congratulations! You've won a prize! Click here: http://example.com/105 Claim now: http://claim.com/105,1,103,2
+user106@mail.com,Subject 106 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 106",0,84,0
+user107@mail.com,Subject 107 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 107",0,84,0
+user108@mail.com,Subject 108 - General,Get amazing discounts on your next purchase! Visit http://sale.com/108 to know more.,1,84,1
+user109@mail.com,Subject 109 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 109",0,84,0
+user110@mail.com,Subject 110 - Important,Congratulations! You've won a prize! Click here: http://example.com/110 Claim now: http://claim.com/110,0,103,2
+user111@mail.com,Subject 111 - General,Get amazing discounts on your next purchase! Visit http://sale.com/111 to know more.,0,84,1
+user112@mail.com,Subject 112 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 112",0,84,0
+user113@mail.com,Subject 113 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 113",1,84,0
+user114@mail.com,Subject 114 - General,Get amazing discounts on your next purchase! Visit http://sale.com/114 to know more.,1,84,1
+user115@mail.com,Subject 115 - Important,Congratulations! You've won a prize! Click here: http://example.com/115 Claim now: http://claim.com/115,0,103,2
+user116@mail.com,Subject 116 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 116",1,84,0
+user117@mail.com,Subject 117 - General,Get amazing discounts on your next purchase! Visit http://sale.com/117 to know more.,1,84,1
+user118@mail.com,Subject 118 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 118",0,84,0
+user119@mail.com,Subject 119 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 119",1,84,0
+user120@mail.com,Subject 120 - Important,Congratulations! You've won a prize! Click here: http://example.com/120 Claim now: http://claim.com/120,0,103,2
+user121@mail.com,Subject 121 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 121",1,84,0
+user122@mail.com,Subject 122 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 122",1,84,0
+user123@mail.com,Subject 123 - General,Get amazing discounts on your next purchase! Visit http://sale.com/123 to know more.,0,84,1
+user124@mail.com,Subject 124 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 124",0,84,0
+user125@mail.com,Subject 125 - Important,Congratulations! You've won a prize! Click here: http://example.com/125 Claim now: http://claim.com/125,0,103,2
+user126@mail.com,Subject 126 - General,Get amazing discounts on your next purchase! Visit http://sale.com/126 to know more.,0,84,1
+user127@mail.com,Subject 127 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 127",1,84,0
+user128@mail.com,Subject 128 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 128",1,84,0
+user129@mail.com,Subject 129 - General,Get amazing discounts on your next purchase! Visit http://sale.com/129 to know more.,0,84,1
+user130@mail.com,Subject 130 - Important,Congratulations! You've won a prize! Click here: http://example.com/130 Claim now: http://claim.com/130,0,103,2
+user131@mail.com,Subject 131 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 131",0,84,0
+user132@mail.com,Subject 132 - General,Get amazing discounts on your next purchase! Visit http://sale.com/132 to know more.,0,84,1
+user133@mail.com,Subject 133 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 133",0,84,0
+user134@mail.com,Subject 134 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 134",0,84,0
+user135@mail.com,Subject 135 - Important,Congratulations! You've won a prize! Click here: http://example.com/135 Claim now: http://claim.com/135,1,103,2
+user136@mail.com,Subject 136 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 136",0,84,0
+user137@mail.com,Subject 137 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 137",0,84,0
+user138@mail.com,Subject 138 - General,Get amazing discounts on your next purchase! Visit http://sale.com/138 to know more.,0,84,1
+user139@mail.com,Subject 139 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 139",0,84,0
+user140@mail.com,Subject 140 - Important,Congratulations! You've won a prize! Click here: http://example.com/140 Claim now: http://claim.com/140,1,103,2
+user141@mail.com,Subject 141 - General,Get amazing discounts on your next purchase! Visit http://sale.com/141 to know more.,1,84,1
+user142@mail.com,Subject 142 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 142",0,84,0
+user143@mail.com,Subject 143 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 143",0,84,0
+user144@mail.com,Subject 144 - General,Get amazing discounts on your next purchase! Visit http://sale.com/144 to know more.,0,84,1
+user145@mail.com,Subject 145 - Important,Congratulations! You've won a prize! Click here: http://example.com/145 Claim now: http://claim.com/145,0,103,2
+user146@mail.com,Subject 146 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 146",0,84,0
+user147@mail.com,Subject 147 - General,Get amazing discounts on your next purchase! Visit http://sale.com/147 to know more.,0,84,1
+user148@mail.com,Subject 148 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 148",0,84,0
+user149@mail.com,Subject 149 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 149",0,84,0
+user150@mail.com,Subject 150 - Important,Congratulations! You've won a prize! Click here: http://example.com/150 Claim now: http://claim.com/150,0,103,2
+user151@mail.com,Subject 151 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 151",1,84,0
+user152@mail.com,Subject 152 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 152",0,84,0
+user153@mail.com,Subject 153 - General,Get amazing discounts on your next purchase! Visit http://sale.com/153 to know more.,0,84,1
+user154@mail.com,Subject 154 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 154",0,84,0
+user155@mail.com,Subject 155 - Important,Congratulations! You've won a prize! Click here: http://example.com/155 Claim now: http://claim.com/155,1,103,2
+user156@mail.com,Subject 156 - General,Get amazing discounts on your next purchase! Visit http://sale.com/156 to know more.,0,84,1
+user157@mail.com,Subject 157 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 157",0,84,0
+user158@mail.com,Subject 158 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 158",1,84,0
+user159@mail.com,Subject 159 - General,Get amazing discounts on your next purchase! Visit http://sale.com/159 to know more.,0,84,1
+user160@mail.com,Subject 160 - Important,Congratulations! You've won a prize! Click here: http://example.com/160 Claim now: http://claim.com/160,0,103,2
+user161@mail.com,Subject 161 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 161",0,84,0
+user162@mail.com,Subject 162 - General,Get amazing discounts on your next purchase! Visit http://sale.com/162 to know more.,0,84,1
+user163@mail.com,Subject 163 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 163",0,84,0
+user164@mail.com,Subject 164 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 164",0,84,0
+user165@mail.com,Subject 165 - Important,Congratulations! You've won a prize! Click here: http://example.com/165 Claim now: http://claim.com/165,0,103,2
+user166@mail.com,Subject 166 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 166",1,84,0
+user167@mail.com,Subject 167 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 167",0,84,0
+user168@mail.com,Subject 168 - General,Get amazing discounts on your next purchase! Visit http://sale.com/168 to know more.,0,84,1
+user169@mail.com,Subject 169 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 169",0,84,0
+user170@mail.com,Subject 170 - Important,Congratulations! You've won a prize! Click here: http://example.com/170 Claim now: http://claim.com/170,0,103,2
+user171@mail.com,Subject 171 - General,Get amazing discounts on your next purchase! Visit http://sale.com/171 to know more.,0,84,1
+user172@mail.com,Subject 172 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 172",0,84,0
+user173@mail.com,Subject 173 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 173",0,84,0
+user174@mail.com,Subject 174 - General,Get amazing discounts on your next purchase! Visit http://sale.com/174 to know more.,0,84,1
+user175@mail.com,Subject 175 - Important,Congratulations! You've won a prize! Click here: http://example.com/175 Claim now: http://claim.com/175,0,103,2
+user176@mail.com,Subject 176 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 176",0,84,0
+user177@mail.com,Subject 177 - General,Get amazing discounts on your next purchase! Visit http://sale.com/177 to know more.,0,84,1
+user178@mail.com,Subject 178 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 178",0,84,0
+user179@mail.com,Subject 179 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 179",1,84,0
+user180@mail.com,Subject 180 - Important,Congratulations! You've won a prize! Click here: http://example.com/180 Claim now: http://claim.com/180,0,103,2
+user181@mail.com,Subject 181 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 181",0,84,0
+user182@mail.com,Subject 182 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 182",0,84,0
+user183@mail.com,Subject 183 - General,Get amazing discounts on your next purchase! Visit http://sale.com/183 to know more.,1,84,1
+user184@mail.com,Subject 184 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 184",1,84,0
+user185@mail.com,Subject 185 - Important,Congratulations! You've won a prize! Click here: http://example.com/185 Claim now: http://claim.com/185,0,103,2
+user186@mail.com,Subject 186 - General,Get amazing discounts on your next purchase! Visit http://sale.com/186 to know more.,0,84,1
+user187@mail.com,Subject 187 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 187",1,84,0
+user188@mail.com,Subject 188 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 188",0,84,0
+user189@mail.com,Subject 189 - General,Get amazing discounts on your next purchase! Visit http://sale.com/189 to know more.,0,84,1
+user190@mail.com,Subject 190 - Important,Congratulations! You've won a prize! Click here: http://example.com/190 Claim now: http://claim.com/190,0,103,2
+user191@mail.com,Subject 191 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 191",0,84,0
+user192@mail.com,Subject 192 - General,Get amazing discounts on your next purchase! Visit http://sale.com/192 to know more.,1,84,1
+user193@mail.com,Subject 193 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 193",1,84,0
+user194@mail.com,Subject 194 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 194",0,84,0
+user195@mail.com,Subject 195 - Important,Congratulations! You've won a prize! Click here: http://example.com/195 Claim now: http://claim.com/195,0,103,2
+user196@mail.com,Subject 196 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 196",0,84,0
+user197@mail.com,Subject 197 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 197",0,84,0
+user198@mail.com,Subject 198 - General,Get amazing discounts on your next purchase! Visit http://sale.com/198 to know more.,1,84,1
+user199@mail.com,Subject 199 - General,"Hello, this is a regular email. No urgent matter. Please ignore if not relevant. 199",1,84,0
+user200@mail.com,Subject 200 - Important,Congratulations! You've won a prize! Click here: http://example.com/200 Claim now: http://claim.com/200,1,103,2
